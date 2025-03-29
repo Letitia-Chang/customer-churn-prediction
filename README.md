@@ -45,7 +45,7 @@ This project builds a machine learning model to predict whether a customer will 
 - **Fiber Optic**: 41.9%
 - **No Internet Service**: 7.4%
 
-##💡 Key Insights
+## 💡 Key Insights
 
 - Customers with **short tenure** are significantly more likely to churn.
 - Customers on **month-to-month contracts** have the highest churn rate, while those on **two-year contracts** are least likely to churn.
@@ -81,3 +81,4 @@ jupyter notebook
 ## 📬 Contact
 
 Made with ❤️ by Ting Ya Chang
+mail: letitiachang0807@gmail.com
